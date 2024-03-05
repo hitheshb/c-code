@@ -83,6 +83,9 @@ ford b = new ford (num_ver);
  scanner.close();
  }
  }
+
+
+
 C# Lab Programs
 
 1.Develop a C# program to simulate simple airthmetic calculator for addition, subtraction, multiplication, division and mod opertaions. Read the operator and operands through console.
